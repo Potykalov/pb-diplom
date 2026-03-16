@@ -1,12 +1,12 @@
 # ❌⭕ Tic-Tac-Toe (Крестики-нолики)
 
-![Game Demo](assets/demo.gif)
-
-Дипломная работа по курсу **«Основы программирования»**.
+Дипломная работа по модулю **«Основы программирования»** курса **«Фронтенд-разработчик»** в Нетологии.
 Реализация логики классической игры **Крестики-нолики** на JavaScript.
 
+![Game Demo](assets/demo.gif)
+
 🌐 **Демо:**
-https://potykalov.github.io/pb-diplom/
+[GitHub Pages](https://potykalov.github.io/pb-diplom/)
 
 ---
 
