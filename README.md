@@ -15,7 +15,7 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/potykalov/tic-tac-toe-js">
 </div>
 
-# ❌⭕ Разработка логики игры "Крестики-нолики"
+# ❌⭕ Игра "Крестики-нолики"
 
 Реализация логики классической игры **Крестики-нолики** на JavaScript.
 
@@ -23,8 +23,6 @@
 
 🌐 **Демо:**
 [GitHub Pages](https://potykalov.github.io/pb-diplom/)
-
----
 
 ## 📌 Описание
 
@@ -39,16 +37,12 @@
 * по вертикали
 * по диагонали
 
----
-
 ## 🛠 Технологии
 
 * HTML
 * CSS
 * JavaScript (Vanilla JS)
 * DOM API
-
----
 
 ## 📂 Структура проекта
 
@@ -60,8 +54,6 @@ logic.js     — логика игры
 ```
 
 Изменяется только файл **`logic.js`**.
-
----
 
 ## ⚙️ Основная логика
 
@@ -75,8 +67,6 @@ logic.js     — логика игры
 * выбирает активного игрока
 * вызывает `renderBoard()` для отрисовки.
 
----
-
 ### `click(row, column)`
 
 Вызывается при клике на клетку.
@@ -87,8 +77,6 @@ logic.js     — логика игры
 2. обновляет интерфейс через `renderBoard()`
 3. проверяет победу
 4. вызывает `showWinner()` или передаёт ход следующему игроку
-
----
 
 ## 🧠 Модель игрового поля
 
@@ -108,17 +96,21 @@ let board = [
 let players = ['x', 'o'];
 ```
 
----
-
 ## ⭐ Дополнительно
 
 Код написан так, чтобы игру можно было адаптировать под **квадратное поле любого размера (N×N)**.
 
----
-
 ## 👨‍💻 Автор
 
 Учебный проект по программированию.
+
+## 📇 Контакты
+
+- 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
+- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1yiBdKQfv06UNVdN8-vUEW_FL_-eQtVdq&usp=drive_fs) | [MyResume](https://myresume.ru/resume/3QzEpgcyZhM/)
+- ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
+- 🌐 **VK:** [dmitriy_potykalov](https://vk.com/dmitriy_potykalov)
+- 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
 
 ## 📄 Лицензия
 
