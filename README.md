@@ -22,7 +22,7 @@
 ![Game Demo](assets/demo.gif)
 
 🌐 **Демо:**
-[GitHub Pages](https://potykalov.github.io/pb-diplom/)
+[GitHub Pages](https://potykalov.github.io/tic-tac-toe-js/)
 
 ## 📌 Описание
 
